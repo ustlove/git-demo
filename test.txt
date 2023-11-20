@@ -1,2 +1,6 @@
 create a new branch is very quick and easy
+<<<<<<< HEAD
 master
+=======
+master
+>>>>>>> feature1
